@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //TODO: לסיים את המשימה
         //TODO: תביא לי 100
+        //TODO: פליז אלברט
     }
 }
