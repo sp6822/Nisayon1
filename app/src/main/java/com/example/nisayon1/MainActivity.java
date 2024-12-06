@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //TODO: לסיים את המשימה
+        //TODO: תביא לי 100
     }
 }
